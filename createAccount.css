@@ -1,0 +1,62 @@
+.inputs	{
+	text-align: center;
+	margin: auto;
+	width: 600px;
+}
+
+.test{
+	text-align: right;
+}
+
+.inputbox {
+	padding-left: 250px;
+	width: 600px
+	background-color: black;
+}
+
+h1 {
+	text-align: center;
+	padding-top: 50px;
+}
+
+a {
+	color: dodgerblue;
+}
+
+.centre {
+	text-align: center;
+}
+
+.form {
+	padding-top: 20px;
+}
+
+.trouble{
+	padding-top: 15px;
+}
+
+header {
+	display: block;
+	width: 100%;
+	height: 600px;
+	background: url("images/backgrnd.jpg");
+	color: white;
+}
+
+p { 
+	font-family: 'Helvetica Nue', Helvetica;
+}
+
+h1 {
+	font-family: 'Helvetica Nue', Helvetica;
+}
+
+h2 {
+	font-family: 'Helvetica Nue', Helvetica;
+}
+
+.backround {
+	background-color: hsla(0, 100%, 1%, 0.3);
+	margin: auto;
+	width: 200px;
+}
